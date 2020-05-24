@@ -1,0 +1,11 @@
+Hi Network!
+
+I am glad to share with you my latest article on Cross-Validation.
+
+https://medium.com/machine-learning-eli5/cross-validation-the-right-way-386839ed39b1
+
+As always any feedback is highly appreciated! 
+
+Thanks 
+
+#machinelearning #datascience #ai #thelearningmachine #medium
